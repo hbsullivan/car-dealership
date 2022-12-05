@@ -1,0 +1,15 @@
+/Users/henrysullivan/Desktop/car-dealership/bin/Debug/net6.0/Car
+/Users/henrysullivan/Desktop/car-dealership/bin/Debug/net6.0/Car.deps.json
+/Users/henrysullivan/Desktop/car-dealership/bin/Debug/net6.0/Car.runtimeconfig.json
+/Users/henrysullivan/Desktop/car-dealership/bin/Debug/net6.0/Car.dll
+/Users/henrysullivan/Desktop/car-dealership/bin/Debug/net6.0/Car.pdb
+/Users/henrysullivan/Desktop/car-dealership/obj/Debug/net6.0/Car.csproj.AssemblyReference.cache
+/Users/henrysullivan/Desktop/car-dealership/obj/Debug/net6.0/Car.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henrysullivan/Desktop/car-dealership/obj/Debug/net6.0/Car.AssemblyInfoInputs.cache
+/Users/henrysullivan/Desktop/car-dealership/obj/Debug/net6.0/Car.AssemblyInfo.cs
+/Users/henrysullivan/Desktop/car-dealership/obj/Debug/net6.0/Car.csproj.CoreCompileInputs.cache
+/Users/henrysullivan/Desktop/car-dealership/obj/Debug/net6.0/Car.dll
+/Users/henrysullivan/Desktop/car-dealership/obj/Debug/net6.0/refint/Car.dll
+/Users/henrysullivan/Desktop/car-dealership/obj/Debug/net6.0/Car.pdb
+/Users/henrysullivan/Desktop/car-dealership/obj/Debug/net6.0/Car.genruntimeconfig.cache
+/Users/henrysullivan/Desktop/car-dealership/obj/Debug/net6.0/ref/Car.dll
